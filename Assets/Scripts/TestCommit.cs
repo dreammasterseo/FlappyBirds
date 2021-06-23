@@ -13,6 +13,9 @@ public class TestCommit : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if(Input.GetMouseButtonDown(0))
+        {
+            transform.Translate(Vector3.forward * 5 * Time.deltaTime);
+        }
     }
 }
