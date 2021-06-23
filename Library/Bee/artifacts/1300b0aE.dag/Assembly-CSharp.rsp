@@ -350,6 +350,7 @@
 "Assets/Scripts/ObjectPool.cs"
 "Assets/Scripts/PupeGeneration.cs"
 "Assets/Scripts/ScoreSone.cs"
+"Assets/Scripts/TestCommit.cs"
 "Assets/Scripts/UI/EndScreen.cs"
 "Assets/Scripts/UI/Scoore.cs"
 "Assets/Scripts/UI/Screen.cs"
