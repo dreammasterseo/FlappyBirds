@@ -71,7 +71,6 @@
     <Compile Include="Assets\Scripts\Barder\BarderMover.cs" />
     <Compile Include="Assets\Scripts\ScoreSone.cs" />
     <Compile Include="Assets\Scripts\ObjectPool.cs" />
-    <Compile Include="Assets\Scripts\TestCommit.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
